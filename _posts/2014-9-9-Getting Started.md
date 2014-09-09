@@ -11,6 +11,6 @@ After a few years of that I decided to go back to school and formally study web 
 
 ###Current Inspiration
 
-1. (http://www.hungercrunch.com/)
-2. (http://underbelly.is/)
-3. (http://www.mangrove.com/en/)
+⋅⋅*(http://www.hungercrunch.com/)I really like the movement that the top of the page has when you first get to the site
+⋅⋅*(http://underbelly.is/)The simple layout and colors are on point I would like to be coming up with layouts like this
+⋅⋅*(http://www.mangrove.com/en/)Another cool layout and simple layout that is pretty graphic based.
