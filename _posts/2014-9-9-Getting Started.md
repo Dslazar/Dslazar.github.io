@@ -11,6 +11,6 @@ After a few years of that I decided to go back to school and formally study web 
 
 ###Current Inspiration
 
-*1. http://www.hungercrunch.com/*
-*2. http://underbelly.is/*
-*3. http://www.mangrove.com/en/*
+1. (http://www.hungercrunch.com/)
+2. (http://underbelly.is/)
+3. (http://www.mangrove.com/en/)
