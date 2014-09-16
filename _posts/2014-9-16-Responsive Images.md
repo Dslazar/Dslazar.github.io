@@ -3,7 +3,7 @@ layout:post
 title: Responsive Images
 ---
 
-##What's the Deal with Responzive Images
+##What's the Deal with Responsive Images
 
 Responsive images have many uses from making sure that users are seeing the appropriate image based on their browser and screen.
 There is also the issue of load time and effiency of a site which can be aided by having the correct image responses come into play.
