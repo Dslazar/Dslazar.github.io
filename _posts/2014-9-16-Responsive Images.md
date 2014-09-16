@@ -26,10 +26,11 @@ are numerous and you can see why this would be very frustrating.
   <img alt="A fat dog" src="small-1.jpg">
 </picture> 
 ```
+
 ##This is what the CSS media queries look like
 
-```
+{% highlight css %}
 ( (min-device-pixel-ratio: 1.5) and (min-width: 20.001em) and (max-width: 35.999em) ) or
 ( (max-device-pixel-ratio: 1.5) and (min-width: 120.001em) ) or
 ( (min-device-pixel-ratio: 1.5) and (min-width: 60.001em) )
-```
+{% endhighlight %}
