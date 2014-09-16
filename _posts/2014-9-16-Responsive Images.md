@@ -19,6 +19,7 @@ websites back in the stoneage and struggling to adjust their sites for modern ti
 are numerous and you can see why this would be very frustrating.
 
 ##This is what the Picturefill would look like
+
 ```
 <picture>
   <source media="(min-width: 600px)" srcset="large-1.jpg, large-2.jpg 2x">
@@ -26,6 +27,7 @@ are numerous and you can see why this would be very frustrating.
 </picture> 
 ```
 ##This is what the CSS media queries look like
+
 ```
 ( (min-device-pixel-ratio: 1.5) and (min-width: 20.001em) and (max-width: 35.999em) ) or
 ( (max-device-pixel-ratio: 1.5) and (min-width: 120.001em) ) or
