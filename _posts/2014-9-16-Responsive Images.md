@@ -20,14 +20,13 @@ are numerous and you can see why this would be very frustrating.
 
 ##This is what the Picturefill would look like
 
-```
-
+{% highlight html %}
 <picture>
   <source media="(min-width: 600px)" srcset="large-1.jpg, large-2.jpg 2x">
   <img alt="A fat dog" src="small-1.jpg">
 </picture> 
+{% endhighlight %}
 
-```
 
 ##This is what the CSS media queries look like
 
